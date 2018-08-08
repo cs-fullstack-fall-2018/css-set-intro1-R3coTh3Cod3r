@@ -1,0 +1,31 @@
+p
+{
+    color: yellow;
+    background: gray ;
+    text-decoration: underline;
+}
+.secondParagraph
+{
+    background: blue;
+    text-decoration: underline;
+}
+.firstParagraph
+{
+    background: pink;
+    text-decoration: underline;
+}
+.thirdParagraph
+{
+    background: pink;
+    text-align: center;
+    text-decoration: underline;
+}
+.fourthParagraph
+{
+    background: pink;
+    text-decoration: underline;
+}
+span
+{
+    display: block;
+}
